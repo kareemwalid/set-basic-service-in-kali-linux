@@ -28,5 +28,5 @@ elif c == 4:
 elif c == 5:
 	exit()
 else:
-	print("fuck you")
+	print("Not Found")
 	exit()
